@@ -42,7 +42,7 @@ The app uses **Jikan API** (free, no authentication required).
 
 ## Live Demo
 
-[https://anime-search-tan.vercel.app/](#https://anime-search-tan.vercel.app/)
+[https://anime-search-tan.vercel.app/](https://anime-search-tan.vercel.app/)
 
 ---
 
